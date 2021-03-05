@@ -1,0 +1,15 @@
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\bin\Debug\Delegates and Events.exe.config
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\bin\Debug\Delegates and Events.exe
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\bin\Debug\Delegates and Events.pdb
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\Delegates and Events.csprojAssemblyReference.cache
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\MainWindow.g.cs
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\App.g.cs
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\Delegates and Events_MarkupCompile.cache
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\Delegates and Events_MarkupCompile.lref
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\MainWindow.baml
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\Delegates and Events.g.resources
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\Delegates_and_Events.Properties.Resources.resources
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\Delegates and Events.csproj.GenerateResource.cache
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\Delegates and Events.csproj.CoreCompileInputs.cache
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\Delegates and Events.exe
+C:\Users\hans\source\repos\Delegates and Events\Delegates and Events\obj\Debug\Delegates and Events.pdb
